@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Temporada",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd8.Temporada",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "VideoGame",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd7.VideoGame",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "InicializadorDaTemporada",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd8.InicializadorDaTemporada",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "ArcadeTeste",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd7.ArcadeTeste",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "Jogo",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd7.Jogo",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "Art",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd6.Art",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "Tabuada",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd6.Tabuada",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "Pin",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd6.Pin",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "Sinalizador",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd5.Sinalizador",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "C_Onda",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd5.C_Onda",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd4.TestClass",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "nome",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd4.nome",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "blabla",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd3.blabla",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "H_Interativa",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd3.H_Interativa",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "SnakeBox",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd2.SnakeBox",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "EmojiOriginal",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd2.EmojiOriginal",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "Emoji",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Atvdd2.Emoji",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "Oracle_Java.HelloWorld",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "Mesa",
+            "request": "launch",
+            "mainClass": "Oracle_Java.Mesa",
+            "projectName": "Poo_1425952a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Mesa",
+            "request": "launch",
+            "mainClass": "App.Mesa",
+            "projectName": "Poo_1425952a"
+        }
+    ]
+}
