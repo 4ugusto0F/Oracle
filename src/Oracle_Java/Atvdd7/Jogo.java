@@ -1,13 +1,13 @@
 package Oracle_Java.Atvdd7;
 import java.util.Random;
 
-public class jogo {
+public class Jogo {
 
     private String nomeDoJogo;
     private int creditosNecessarios;
     private boolean chanceDeNaoGanharTickets;
 
-    public jogo(String nomeDoJogo, int creditosNecessarios, boolean chanceDeNaoGanharTickets){
+    public Jogo(String nomeDoJogo, int creditosNecessarios, boolean chanceDeNaoGanharTickets){
         this.nomeDoJogo = nomeDoJogo;
         this.creditosNecessarios = creditosNecessarios;
         this.chanceDeNaoGanharTickets = chanceDeNaoGanharTickets;
